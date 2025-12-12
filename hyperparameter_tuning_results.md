@@ -297,7 +297,7 @@ Per user request, here is the full ranking of all models (Base + Ensembles) sort
 | **Logistic Regression** | 0.8983 | 0.8510 | 0.7209 | 0.7806 | 0.8912 |
 | **Neural Network** | 0.9092 | 0.8692 | 0.7508 | 0.8057 | 0.8852 |
 
-## Voting Classifier Feature Analysis (Suppliment to the main report)
+## Voting Classifier Feature Analysis (Supplement to the main report)
 
 ### Feature Importance Calculation
 
