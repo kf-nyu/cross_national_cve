@@ -1,4 +1,4 @@
-# (Suppliment) Cross-National CVE Analysis - Hyperparameter Tuning Results
+# (Supplement) Cross-National CVE Analysis - Hyperparameter Tuning Results
 
 ## We performed expanded hyperparameter tuning with larger grids (at least 3 options per parameter) for all models to ensure robust optimization
 
